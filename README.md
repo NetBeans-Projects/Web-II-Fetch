@@ -1,5 +1,7 @@
 # 📦 Web II Fetch Project
 
+### Web Programming II - Day 47
+
 This is a simple Java EE (Servlet-based) web application that demonstrates how to make an asynchronous request using the JavaScript fetch() API to communicate with a Java servlet.
 
 ---
