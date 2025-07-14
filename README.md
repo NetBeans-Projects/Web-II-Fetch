@@ -9,14 +9,17 @@ This is a simple Java EE (Servlet-based) web application that demonstrates how t
 ```directory
 
 Web II Fetch/
+|
 ├── Web Pages/
 │   ├── index.html
 │   └── assets/
 │       └── js/
 │           └── script.js
+|
 ├── Source Packages/
 │   └── controller/
 │       └── FetchController.java
+│
 ├── Libraries/
 ├── Configuration Files/
 
