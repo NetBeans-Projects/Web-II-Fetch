@@ -2,6 +2,8 @@
 
 ### Web Programming II - Day 47
 
+- 📌 ***This project is maintained in the [`backend`](https://github.com/NetBeans-Projects/Web-II-Fetch/tree/backend) branch. Please switch to that branch to view the code.***
+
 This is a simple Java EE (Servlet-based) web application that demonstrates how to make an asynchronous request using the JavaScript fetch() API to communicate with a Java servlet.
 
 ---
